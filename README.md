@@ -3,6 +3,12 @@
 **Flarum extension to mark discussion as frontpage.**
 
 
+
+**This repo is no longer maintained. Now moved to ![FriendsOfFlarum/frontpage](https://github.com/FriendsOfFlarum/frontpage)**
+
+
+
+
 ## How To Use
 
 ```
