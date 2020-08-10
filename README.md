@@ -18,7 +18,7 @@
 ### Features to add
 
 * ~~Frontpage for discussions with frontpage~~
-* ~~Frontpage as default sort in index page~~  Fixed ![Here](https://github.com/FriendsOfFlarum/frontpage/pull/10)
+* ~~Frontpage as default sort in index page~~  Fixed ![Here](https://github.com/FriendsOfFlarum/frontpage/pull/11)
 
 
 ![front1](https://user-images.githubusercontent.com/25584514/39542395-573a731e-4e40-11e8-9bab-5bfdcbdf9303.PNG)
